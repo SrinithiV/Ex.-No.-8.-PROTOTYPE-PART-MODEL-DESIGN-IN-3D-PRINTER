@@ -47,8 +47,9 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: SRINITHI V
+### Register Number: 212222110046
+![8](https://github.com/SrinithiV/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118722030/f1103bbf-5aaa-4ff7-9ca7-bf9ec94b12ad)
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
